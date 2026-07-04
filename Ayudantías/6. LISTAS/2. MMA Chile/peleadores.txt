@@ -1,0 +1,32 @@
+Goku,Karate,45-5-2;5,Kakaroto
+Jinbe,Jiu-Jitsu,52-11-4;3,El Caballero del Mar
+Matías Rojas,Muay Thai,12-3-1;2,El Cóndor
+Sebastián Fuentes,Wrestling,9-1;4,El Arriero
+Ignacio Paredes,Kickboxing,14-4;1,El Relámpago
+Carlos Toro,Boxeo,8-2;0,El Toro
+Francisco Molina,Judo,11-5;1,El Zorro
+Luis Martínez,Taekwondo,7-4;2,El Halcón
+Diego Silva,Wrestling,10-3-2;3,El Terremoto
+Javier Contreras,Boxeo,6-5;0,El Trueno
+Saitama,Boxeo,50-0;50,Calvo con Capa
+Rodrigo Álvarez,Jiu-Jitsu,13-2;5,La Serpiente
+Pablo Sánchez,Sambo,9-6;1,El Puma
+Pablo Guzmán,Jiu-Jitsu,7-1;4,El Ayudante
+Manuel González,Karate,5-7;0,El León
+Tomás Vargas,Jiu-Jitsu,15-4;2,El Tiburón
+Alersi Sancho,Karate,7-0;7,Maravilla kid
+Andrés Castillo,Wrestling,11-5-1;3,El Oso
+Felipe Morales,Muay Thai,8-9;1,El Lobo
+Gabriel Ríos,Judo,12-3;6,El Águila
+José Mendoza,Boxeo,7-8;0,El Tormenta
+Cristóbal Nuñez,Kickboxing,10-6;2,El Huracán
+Alejandro Soto,Capoeira,9-7;0,El Torbellino
+Daniel Peña,Wrestling,14-5;4,El Gladiador
+Khabib Nurmagomedov,Sambo,29-0;29,The Eagle,C
+Martín Castro,Boxeo,11-8-1;1,El Guerrero
+Ricardo Díaz,Taekwondo,8-10;0,El Titan
+Samuel López,Wrestling,6-11;0,El Vikingo
+Hugo Ramírez,Karate,13-7;2,El Samurai
+Hernando Papuali,U-jutsu,3-0;3,El Rajón
+Piñera,Karate,26-3;18,El Matrices
+Piñera Cyborg,U-Jutsu,26-3;18,El Listas

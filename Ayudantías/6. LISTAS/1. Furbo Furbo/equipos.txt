@@ -1,0 +1,8 @@
+Municipal Ovalle,2,6,0,10,7
+UCN Guayacán,6,2,0,14,4
+Unión Combarbalá,3,2,3,10,10
+Deportes Illapel,1,2,4,6,12
+CD La Serena,4,2,2,12,8
+Deportes Andacollo,0,3,5,4,13
+Coquimbo Unido,3,4,1,13,9
+Atlético Tongoy,0,3,4,4,10

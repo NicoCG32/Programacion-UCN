@@ -1,0 +1,86 @@
+Sebastián Fuentes;9-2;Khabib Nurmagomedov;30-0;Sumisión
+Saitama;51-0;Rodrigo Álvarez;13-3;KO
+Matías Rojas;12-4-1;Carlos Toro;9-2;Decisión
+Ignacio Paredes;14-5;Diego Silva;11-3-2;KO
+Francisco Molina;11-6;Luis Martínez;8-4;Decisión
+Khabib Nurmagomedov;31-0;Diego Silva;10-4-2;Sumisión
+Tomás Vargas;15-5;Matías Rojas;13-3-1;KO
+Saitama;52-0;Pablo Sánchez;9-7;KO
+Gabriel Ríos;13-3;Sebastián Fuentes;10-1;Decisión
+Cristóbal Nuñez;10-7;José Mendoza;7-9;KO
+Khabib Nurmagomedov;32-0;Ignacio Paredes;14-6;Decisión
+Luis Martínez;7-5;Felipe Morales;8-10;KO
+Rodrigo Álvarez;13-4;Saitama;53-0;KO
+Matías Rojas;14-3-1;Pablo Sánchez;9-8;Decisión
+Sebastián Fuentes;11-1;Francisco Molina;11-7;KO
+Saitama;54-0;Khabib Nurmagomedov;32-1;KO
+Diego Silva;12-4-2;Carlos Toro;9-3;Decisión
+Ignacio Paredes;15-5;Tomás Vargas;15-6;KO
+Gabriel Ríos;14-3;Matías Rojas;14-4-1;KO
+Sebastián Fuentes;12-1;Alejandro Soto;9-8;KO
+Khabib Nurmagomedov;33-1;Rodrigo Álvarez;13-5;Sumisión
+Cristóbal Nuñez;10-8;Francisco Molina;11-8;Decisión
+Gabriel Ríos;15-3;Ignacio Paredes;15-6;KO
+Sebastián Fuentes;13-1;Luis Martínez;7-6;Decisión
+Matías Rojas;15-3-1;Saitama;55-1;Decisión
+Rodrigo Álvarez;14-5;Tomás Vargas;15-7;KO
+Khabib Nurmagomedov;34-1;Gabriel Ríos;15-4;KO
+Saitama;56-1;Carlos Toro;9-4;KO
+Sebastián Fuentes;14-1;Diego Silva;12-5-2;KO
+Gabriel Ríos;16-4;Francisco Molina;11-9;Decisión
+Ignacio Paredes;16-6;Rodrigo Álvarez;14-6;KO
+Saitama;57-1;Sebastián Fuentes;14-2;KO
+Khabib Nurmagomedov;35-1;Matías Rojas;15-4-1;Sumisión
+Gabriel Ríos;17-4;Tomás Vargas;15-8;KO
+Sebastián Fuentes;15-2;Carlos Toro;9-5;Decisión
+Saitama;58-1;Ignacio Paredes;16-7;KO
+Khabib Nurmagomedov;36-1;Francisco Molina;11-10;Sumisión
+Gabriel Ríos;18-4;Luis Martínez;7-7;KO
+Daniel Peña;15-5;Ricardo Díaz;8-11;KO
+Andrés Castillo;12-5-1;Manuel González;5-8;Decisión
+Cristóbal Nuñez;11-8;Felipe Morales;8-11;KO
+Hugo Ramírez;14-7;José Mendoza;7-10;KO
+Sebastián Fuentes;16-2;Daniel Peña;15-6;Decisión
+Matías Rojas;16-4-1;Andrés Castillo;12-6-1;KO
+Ignacio Paredes;17-7;Hugo Ramírez;14-8;Decisión
+Carlos Toro;10-5;Manuel González;5-9;KO
+Rodrigo Álvarez;15-6;Felipe Morales;8-12;Sumisión
+Gabriel Ríos;19-4;José Mendoza;7-11;KO
+Tomás Vargas;16-8;Ricardo Díaz;8-12;KO
+Sebastián Fuentes;17-2;Cristóbal Nuñez;11-9;Decisión
+Khabib Nurmagomedov;37-1;Daniel Peña;15-7;Sumisión
+Saitama;59-1;Andrés Castillo;12-7-1;KO
+Ignacio Paredes;18-7;Carlos Toro;10-6;Decisión
+Matías Rojas;17-4-1;Felipe Morales;8-13;KO
+Gabriel Ríos;20-4;Manuel González;5-10;KO
+Sebastián Fuentes;18-2;Ricardo Díaz;8-13;KO
+Rodrigo Álvarez;16-6;José Mendoza;7-12;Decisión
+Tomás Vargas;17-8;Hugo Ramírez;14-9;KO
+Cristóbal Nuñez;12-9;Carlos Toro;10-7;Decisión
+Khabib Nurmagomedov;38-1;Sebastián Fuentes;18-3;Sumisión
+Saitama;60-1;Daniel Peña;15-8;KO
+Gabriel Ríos;21-4;Felipe Morales;8-14;KO
+Ignacio Paredes;19-7;Manuel González;5-11;Decisión
+Rodrigo Álvarez;17-6;Ricardo Díaz;8-14;KO
+Matías Rojas;18-4-1;José Mendoza;7-13;KO
+Tomás Vargas;18-8;Carlos Toro;10-8;Decisión
+Sebastián Fuentes;19-3;Hugo Ramírez;14-10;KO
+Cristóbal Nuñez;13-9;Felipe Morales;8-15;KO
+Gabriel Ríos;22-4;Daniel Peña;15-9;KO
+Khabib Nurmagomedov;39-1;Ignacio Paredes;19-8;Sumisión
+Saitama;61-1;Rodrigo Álvarez;17-7;KO
+Matías Rojas;19-4-1;Ricardo Díaz;8-15;KO
+Sebastián Fuentes;20-3;Manuel González;5-12;Decisión
+Tomás Vargas;19-8;José Mendoza;7-14;KO
+Gabriel Ríos;23-4;Carlos Toro;10-9;KO
+Cristóbal Nuñez;14-9;Hugo Ramírez;14-11;Decisión
+Khabib Nurmagomedov;40-1;Tomás Vargas;19-9;Sumisión
+Saitama;62-1;Ignacio Paredes;19-9;KO
+Gabriel Ríos;24-4;Ricardo Díaz;8-16;KO
+Sebastián Fuentes;21-3;Felipe Morales;8-16;KO
+Matías Rojas;20-4-1;Manuel González;5-13;Decisión
+Rodrigo Álvarez;18-7;Carlos Toro;10-10;KO
+Cristóbal Nuñez;15-9;José Mendoza;7-15;KO
+Tomás Vargas;20-9;Hugo Ramírez;14-12;Decisión
+Gabriel Ríos;25-4;Sebastián Fuentes;21-4;KO
+Saitama;63-1;Khabib Nurmagomedov;40-2;KO

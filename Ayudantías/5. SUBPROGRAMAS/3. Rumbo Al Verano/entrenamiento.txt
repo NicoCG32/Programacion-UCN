@@ -1,0 +1,99 @@
+01/10,3
+Flexiones,sETs,4
+Bicicleta,cArDiO,30:45
+Abdominales,SeTs,3
+02/10,2
+Sentadillas,SETS,5
+Trote,CARdio,25:30
+03/10,4
+Press banca,sets,4
+Natación,CardIo,45:15
+Zancadas,SeTS,3
+Remo,cArdIo,20:00
+04/10,1
+Dominadas,SETS,5
+05/10,3
+Burpees,SetS,4
+Escaladora,carDIO,15:30
+Plancha,CARdio,02:15
+06/10,2
+Peso muerto,sEts,5
+Caminata,Cardio,40:20
+07/10,3
+Fondos,SEtS,4
+Sprints,caRdIo,10:00
+Hollow body,CarDio,01:30
+08/10,2
+Muscle-ups,sets,3
+Elíptica,CARdIo,35:00
+10/10,1
+Yoga,CarDio,50:00
+11/10,3
+Masterclass Boxeo,Artes Marciales,500
+Clean,sETS,5
+Farmer's walk,CardIo,01:45
+Pull-ups,SetS,4
+12/10,2
+Deadlift,sets,5
+Bicicleta estática,cARdio,45:15
+13/10,3
+Arnold press,SEts,4
+Jump rope,CardiO,15:00
+Superman hold,carDio,01:00
+14/10,1
+Campeonato de ArmWrestling,Campeonato,800
+Plank,CARdio,03:30
+15/10,2
+Bench press,sETS,4
+Rowing,caRdIo,18:00
+16/10,3
+Leg press,SeTS,5
+Karate Kyokushin,Artes Marciales,500
+Jumping jacks,CardIo,05:00
+Curl bíceps,sets,3
+17/10,2
+Tríceps dip,SETS,4
+Caminata rápida,cArDio,35:20
+18/10,4
+Pistol squat,sEts,3
+Swimming,caRdIo,30:00
+Push press,SEtS,4
+Wall sit,CarDio,02:00
+19/10,1
+Handstand,SETS,3
+20/10,2
+Kettlebell swing,sets,4
+Cycling,CARdio,50:00
+21/10,3
+Front squat,SeTS,5
+Battle ropes,cardIO,10:00
+Lunges,sETS,3
+22/10,2
+Pullover,sets,4
+Stairmaster,CarDio,25:00
+23/10,1
+Turkish get-up,SETS,3
+24/10,3
+Clean & jerk,sEts,5
+Rowing machine,caRdIo,20:00
+Leg raises,SeTS,4
+25/10,2
+Snatch,SETS,4
+Jump squat,CardIo,08:00
+26/10,4
+Good morning,sets,3
+Skating,cARdio,40:00
+Side plank,CarDio,01:30
+Military press,SEtS,4
+27/10,1
+Rope climb,SETS,3
+28/10,2
+Box squat,sets,5
+Hiking,CardIo,120:00
+29/10,3
+Dips,SEtS,4
+Rowing,caRdIo,25:00
+Leg curl,sETS,3
+30/10,2
+Calf raise,sets,4
+Swimming,CarDio,45:00

@@ -1,0 +1,25 @@
+Atlético Tongoy,0,Deportes Illapel,2
+CD La Serena,1,UCN Guayacán,0
+Municipal Ovalle,2,Unión Combarbalá,2
+Deportes Illapel,1,Coquimbo Unido,3
+Deportes Andacollo,0,Atlético Tongoy,0
+UCN Guayacán,0,Deportes Andacollo,0
+CD La Serena,2,Atlético Tongoy,0
+Coquimbo Unido,1,Unión Combarbalá,1
+Municipal Ovalle,2,Deportes Illapel,2
+Unión Combarbalá,0,UCN Guayacán,2
+Atlético Tongoy,1,Coquimbo Unido,1
+Deportes Illapel,1,CD La Serena,1
+Deportes Andacollo,0,Municipal Ovalle,1
+UCN Guayacán,1,Atlético Tongoy,0
+Coquimbo Unido,2,Municipal Ovalle,1
+CD La Serena,3,Deportes Andacollo,0
+Unión Combarbalá,1,Deportes Illapel,1
+Atlético Tongoy,1,UCN Guayacán,0
+Municipal Ovalle,1,CD La Serena,0
+Deportes Illapel,2,Unión Combarbalá,2
+Coquimbo Unido,1,Deportes Andacollo,0
+UCN Guayacán,2,CD La Serena,3
+Municipal Ovalle,1,Coquimbo Unido,3
+Unión Combarbalá,2,Atlético Tongoy,1
+Deportes Andacollo,0,Deportes Illapel,1

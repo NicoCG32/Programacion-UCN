@@ -1,0 +1,88 @@
+01/10,4
+dEsAyUnO,Tostadas integrales con aguacate,320
+aLmUeRzO,Pasta al pesto con pollo,520
+oNcE,Yogur natural con frutas,280
+Snack,Doritos con queso, 300
+02/10,2
+DeSaYuNo,Huevos revueltos con espinacas,350
+ONce,Sándwich de pavo integral,420
+03/10,4
+DESayuno,Avena con leche y miel,380
+aLmUerZo,Salmón a la plancha con quinoa,450
+OnCE,Manzana con mantequilla de maní,220
+Atracón,Pizza de pepperoni familiar,800
+04/10,1
+aLmUeRzO,Lasagna vegetariana,580
+05/10,2
+dEsAyUnO,Smoothie de banana y espinacas,350
+AlmueRZO,Hamburguesa casera con ensalada,800
+06/10,3
+DeSaYuNo,Tostadas francesas con sirope,350
+aLmUerZo,Merluza al horno con patatas,480
+ONce,Galletas integrales con té,400
+07/10,2
+DESayuno,Cereales con leche desnatada,300
+oNCE,Sopa de verduras,320
+08/10,3
+dEsAyUnO,Tortilla de claras con jamón,330
+AlmueRZO,Arroz con curry de garbanzos,510
+OnCE,Bowl de frutas con granola,310
+09/10,1
+aLmUeRzO,Pizza vegetariana casera,650
+10/10,3
+DeSaYuNo,Jugo de naranja con pan tostado,270
+ONce,Ensalada César con pollo,380
+Carrete,Cerveza y rock 'N' roll,700
+11/10,3
+DESayuno,Batido de proteínas con frutos rojos,320
+aLmUerZo,Lentejas estofadas con chorizo,550
+oNCE,Yogur griego con miel,250
+13/10,2
+AlmueRZO,Filete de ternera con puré,580
+OnCE,Compota de manzana sin azúcar,180
+14/10,3
+DeSaYuNo,Porridge de avena con canela,340
+aLmUeRzO,Paella de mariscos,620
+ONce,Ensalada de quinoa y aguacate,370
+15/10,2
+DESayuno,Tortitas de maíz con miel,390
+oNCE,Sándwich de atún con pan integral,410
+16/10,2
+AlmueRZO,Estofado de carne con papas,530
+Proteína,Batido de proteínas,400
+17/10,3
+dEsAyUnO,Pan integral con hummus y tomate,310
+aLmUerZo,Pechuga de pollo al horno con vegetales,470
+OnCE,Gelatina light con frutas,150
+18/10,2
+DeSaYuNo,Licuado de banana y leche,330
+ONce,Empanadas de queso y espinaca,380
+19/10,1
+DESayuno,Té con bizcochos caseros,280
+20/10,3
+aLmUeRzO,Tallarines con salsa boloñesa,590
+oNCE,Palta rellena con atún,350
+dEsAyUnO,Jugo verde con semillas,240
+21/10,2
+AlmueRZO,Milanesa de soja con ensalada,520
+OnCE,Flan casero sin azúcar,220
+23/10,3
+DESayuno,Omelette de champiñones y queso,420
+aLmUerZo,Merluza a la romana con arroz,480
+ONce,Brownie de chocolate saludable,310
+24/10,2
+dEsAyUnO,Tostadas con mermelada light,290
+oNCE,Sopa minestrone,320
+25/10,1
+AlmueRZO,Canelones de espinaca y ricotta,510
+26/10,3
+DeSaYuNo,Leche con cacao y pan tostado,300
+aLmUeRzO,Albóndigas con puré de calabaza,540
+OnCE,Barras de cereal caseras,280
+27/10,2
+DESayuno,Fruta fresca con yogur natural,250
+ONce,Sándwich de jamón crudo y queso,390
+29/10,3
+AlmueRZO,Cazuela de pescado con papas,570
+oNCE,Ensalada de garbanzos y tomate,340
+DeSaYuNo,Smoothie de mango y jengibre,270
