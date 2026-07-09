@@ -2,6 +2,10 @@
 
 Material de introducción a condicionales en Python.
 
+**Estado**: Material de depuración incompleto intencionalmente.
+
+Consulta [EXPLICACIÓN.md](EXPLICACIÓN.md) para identificar los errores y la condición lógica esperada.
+
 ## Contenido
 
 | Archivo | Descripción |
@@ -21,3 +25,10 @@ Material de introducción a condicionales en Python.
 ## Uso recomendado
 
 Primero revisa el PDF y luego abre el código incompleto. La idea es detectar por qué el programa falla, corregirlo y explicar qué condición permite autorizar o rechazar el acceso.
+
+## Estado
+
+- [x] Enunciado disponible.
+- [x] Código defectuoso preparado para depuración.
+- [ ] Solución corregida incorporada.
+- [ ] Actividad de elecciones implementada.

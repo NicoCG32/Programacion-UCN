@@ -2,6 +2,10 @@
 
 Ejercicio integrador de subprogramas y cruce de archivos.
 
+**Estado**: Implementado.
+
+Consulta [EXPLICACIÓN.md](EXPLICACIÓN.md) para estudiar el cruce por fecha y sus costos.
+
 ## Contenido
 
 | Archivo | Descripción |
@@ -23,3 +27,9 @@ Ejercicio integrador de subprogramas y cruce de archivos.
 ## Uso recomendado
 
 Este ejercicio es útil para estudiar cómo dividir un problema en módulos: una función calcula tiempo, otra lee entrenamientos, otra lee dieta y el programa principal coordina el análisis por fecha.
+
+## Estado
+
+- [x] Ambos archivos de entrada disponibles.
+- [x] Consulta por fecha implementada.
+- [x] Código sintácticamente válido.

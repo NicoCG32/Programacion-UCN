@@ -2,6 +2,10 @@
 
 Material para practicar patrones algorítmicos iniciales.
 
+**Estado**: Actividades principales implementadas.
+
+Consulta [EXPLICACIÓN.md](EXPLICACIÓN.md) para revisar acumuladores, valor previo, reportes y casos no cubiertos.
+
 ## Contenido
 
 | Archivo | Descripción |
@@ -22,3 +26,9 @@ Material para practicar patrones algorítmicos iniciales.
 ## Uso recomendado
 
 Antes de revisar la solución, identifica qué variables deben recordar información histórica: cantidad total, acumulado, mayor, menor, previo e informe. Esa es la diferencia entre escribir líneas sueltas y construir un algoritmo.
+
+## Estado
+
+- [x] Temperaturas implementado.
+- [x] Análisis sísmico principal implementado.
+- [ ] Extensión de lectura del informe sísmico desde archivo.

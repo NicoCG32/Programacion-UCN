@@ -28,10 +28,14 @@ Programacion-UCN/
 
 Cada evaluación puede contener:
 
-- `Prueba.pdf`, `Parte 1.pdf`, `Parte 2.pdf` o `Ruteo.pdf`: enunciados y material de evaluación.
+- `PRUEBA.pdf`, `PRUEBA - PARTE 1.pdf`, `PRUEBA - PARTE 2.pdf` o `Ruteo.pdf`: enunciados y material de evaluación.
 - Archivos `.txt`: datos de entrada usados por los programas.
-- Archivos `.py`: soluciones o desarrollos en Python.
 - Archivos `.zip`: paquetes de archivos auxiliares, cuando corresponde.
+- `Solución/README.md`: cobertura del enunciado y estado verificable.
+- `Solución/EXPLICACIÓN.md`: explicación de código, algoritmos, supuestos y limitaciones.
+- `Solución/src/`: scripts Python.
+
+En ayudantías, `README.md` y `EXPLICACIÓN.md` permanecen junto a los scripts porque cada carpeta representa directamente una actividad y no una evaluación formal.
 
 ## Material disponible
 
@@ -43,24 +47,24 @@ Cada evaluación puede contener:
 
 ### Prueba 1
 
-| Periodo | Material | Contenido principal |
+| Periodo | Estado | Contenido principal |
 | --- | --- | --- |
-| [P1 2025 S2](<PRUEBA 1/P1 2025 S2/>) | `Tiendita.py`, `Liga.py`, enunciado, ruteo y archivo de partidos. | Ciclos, validación de entrada, acumuladores, contadores, lectura de archivos, máximos, porcentajes y generación de reportes. |
-| [P1 2023 VERANO](<PRUEBA 1/P1 2023 VERANO/>) | `Autos.py`, enunciado, ruteo y archivos de entrada. | Lectura de archivos, procesamiento secuencial, condiciones, acumuladores y búsqueda de datos relevantes. |
+| [P1 2025 S2](<PRUEBA 1/P1 2025 S2/Solución/README.md>) | Parcial | Boletas y liga implementadas; ruteo y VetSalud pendientes. |
+| [P1 2023 VERANO](<PRUEBA 1/P1 2023 VERANO/Solución/README.md>) | Parcial | Vehículos implementado; ruteo y máquina de relojes pendientes. |
 
 ### Prueba 2
 
-| Periodo | Material | Contenido principal |
+| Periodo | Estado | Contenido principal |
 | --- | --- | --- |
-| [P2 2025 S2](<PRUEBA 2/P2 2025 S2/>) | `Lotes.py`, enunciado por partes, archivos de entrada y salida esperada. | Funciones, listas paralelas, matrices con NumPy, lectura de múltiples archivos y procesamiento por índices. |
-| [SIM P2 2024 S2](<PRUEBA 2/SIM P2 2024 S2/>) | `Cinemark.py`, `Tapper.py`, enunciado y archivos de entrada. | Simulación, listas, procesamiento de archivos, acumuladores y reglas condicionales. |
-| [P3 2021 S1](<PRUEBA 2/P3 2021 S1/>) | `Distribution.py`, `Super.py`, enunciado y archivos de entrada. | Problemas integradores con archivos, listas, cálculos y organización de información. |
+| [P2 2025 S2](<PRUEBA 2/P2 2025 S2/Solución/README.md>) | Parcial | Lotes parcialmente implementado; GP Huachalalume pendiente. |
+| [SIM P2 2024 S2](<PRUEBA 2/SIM P2 2024 S2/Solución/README.md>) | Implementada con observaciones | Tapper y Cinemark. |
+| [P3 2021 S1](<PRUEBA 2/P3 2021 S1/Solución/README.md>) | Completa para los datos entregados | Supermercados y distribución. |
 
 ### RECA
 
-| Periodo | Material | Contenido principal |
+| Periodo | Estado | Contenido principal |
 | --- | --- | --- |
-| [RECA 2025 S2](<RECA/RECA 2025 S2/>) | `SerpientesEscaleras.py`, enunciados, archivos de entrada y salidas de ejemplo. | Funciones, listas paralelas, matrices, simulación por turnos y ordenamiento de resultados. |
+| [RECA 2025 S2](<RECA/RECA 2025 S2/Solución/README.md>) | Parcial | Simulación básica disponible; estadísticas globales y Facturando pendientes. |
 
 ## Cómo ejecutar las soluciones
 
@@ -68,16 +72,16 @@ Las soluciones están escritas en Python. La forma más cercana al curso es ejec
 
 1. Abre Anaconda Navigator.
 2. Inicia Spyder.
-3. Abre el archivo `.py` de la evaluación.
-4. Verifica que los archivos `.txt` requeridos estén en la misma carpeta de trabajo.
+3. Abre el archivo `.py` desde `Solución/src/`.
+4. Configura como carpeta de trabajo la raíz de la evaluación, donde se encuentran los `.txt`.
 5. Ejecuta el programa desde Spyder.
 
 También puedes ejecutar los archivos desde terminal si tienes Python configurado:
 
-Ejemplo general:
+Ejemplo general desde la raíz de una evaluación:
 
 ```bash
-python archivo.py
+python "Solución/src/archivo.py"
 ```
 
 Para ejercicios con NumPy:

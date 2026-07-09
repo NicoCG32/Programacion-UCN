@@ -2,6 +2,10 @@
 
 Ejercicio integrador de subprogramas y lectura de archivos.
 
+**Estado**: Implementado.
+
+Consulta [EXPLICACIÓN.md](EXPLICACIÓN.md) para estudiar las funciones y la lectura por bloques.
+
 ## Contenido
 
 | Archivo | Descripción |
@@ -22,3 +26,9 @@ Ejercicio integrador de subprogramas y lectura de archivos.
 ## Uso recomendado
 
 Antes de revisar la solución, separa el problema en funciones: detectar malware, calcular costo, determinar ataque más recurrente y procesar bloques del archivo. Esa separación vuelve más legible un problema que, escrito todo junto, se vuelve difícil de seguir.
+
+## Estado
+
+- [x] Archivo de entrada disponible.
+- [x] Solución modular disponible.
+- [x] Código sintácticamente válido.

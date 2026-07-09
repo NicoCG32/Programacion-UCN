@@ -2,6 +2,10 @@
 
 Material para practicar ciclos definidos e indefinidos en Python.
 
+**Estado**: Implementada con observaciones.
+
+Consulta [EXPLICACIÓN.md](EXPLICACIÓN.md) para estudiar el flujo y las limitaciones de cada script.
+
 ## Contenido
 
 | Archivo | Descripción |
@@ -24,3 +28,9 @@ Material para practicar ciclos definidos e indefinidos en Python.
 ## Uso recomendado
 
 Ejecuta cada archivo en Spyder y sigue el flujo con valores pequeños. En estos ejercicios conviene identificar claramente qué condición mantiene vivo el ciclo y qué instrucción permite terminarlo.
+
+## Estado
+
+- [x] Cuatro scripts disponibles y sintácticamente válidos.
+- [x] Tablas, fuerza bruta y recorrido de ruta implementados.
+- [ ] Corregir la validación que actualmente acepta cero en `Las Tablas.py`.

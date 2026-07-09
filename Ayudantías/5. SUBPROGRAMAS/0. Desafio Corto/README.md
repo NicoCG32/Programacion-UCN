@@ -2,6 +2,10 @@
 
 Ejercicio breve para introducir funciones.
 
+**Estado**: Completo como ejercicio introductorio.
+
+Consulta [EXPLICACIÓN.md](EXPLICACIÓN.md) para comparar las dos estrategias.
+
 ## Contenido
 
 | Archivo | Descripción |
@@ -20,3 +24,9 @@ Ejercicio breve para introducir funciones.
 ## Uso recomendado
 
 Ejecuta ambas estrategias y compara el resultado. El objetivo no es solo contar palabras, sino entender que una misma tarea puede resolverse usando una herramienta del lenguaje o recorriendo manualmente el texto.
+
+## Estado
+
+- [x] Solución con `split`.
+- [x] Alternativa manual.
+- [x] Código sintácticamente válido.

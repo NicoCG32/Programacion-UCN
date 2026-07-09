@@ -2,6 +2,10 @@
 
 Ejercicio de listas paralelas aplicado a una liga deportiva.
 
+**Estado**: Implementado.
+
+Consulta [EXPLICACIÓN.md](EXPLICACIÓN.md) para revisar invariantes, búsquedas y ordenamiento.
+
 ## Contenido
 
 | Archivo | Descripción |
@@ -23,3 +27,9 @@ Ejercicio de listas paralelas aplicado a una liga deportiva.
 ## Uso recomendado
 
 Ejecuta el programa con `equipos.txt` y `partidos.txt` en la misma carpeta. El punto importante es observar cómo un mismo índice representa al mismo equipo en todas las listas.
+
+## Estado
+
+- [x] Archivos de entrada disponibles.
+- [x] Actualización y ranking implementados.
+- [x] Código sintácticamente válido.

@@ -2,6 +2,10 @@
 
 Ejercicio integrador de listas paralelas, listas de listas y subprogramas.
 
+**Estado**: Implementado.
+
+Consulta [EXPLICACIÓN.md](EXPLICACIÓN.md) para estudiar records, rachas e invariantes.
+
 ## Contenido
 
 | Archivo | Descripción |
@@ -25,3 +29,9 @@ Ejercicio integrador de listas paralelas, listas de listas y subprogramas.
 ## Uso recomendado
 
 Este ejercicio es más difícil que `Furbo Furbo`. Conviene estudiarlo por funciones: primero carga de datos, luego búsqueda, después actualización y finalmente reportes. La dificultad central está en mantener coherencia entre todas las listas cuando se modifican u ordenan.
+
+## Estado
+
+- [x] Archivos de entrada disponibles.
+- [x] Actualizaciones y reportes implementados.
+- [x] Código sintácticamente válido.
